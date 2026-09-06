@@ -12,3 +12,8 @@ h1 {
     color: rgba(65, 253, 18, 0.863);
     text-align: center;
 }
+
+div {
+    text-align: center;
+    color: gray;
+}
